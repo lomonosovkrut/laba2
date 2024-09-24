@@ -13,13 +13,10 @@ int main(void)
 	int i, j, r, n;
 	int** a, ** b, ** c;
 	int elem_c;
-
-	// Задаем размер матриц
-	for (n = 100; n <= 10000;) {
-		// Выделяем память под матрицы
-		a = (int**)malloc(n * sizeof(int*));
-		b = (int**)malloc(n * sizeof(int*));
-		c = (int**)malloc(n * sizeof(int*));
+	n = 200;
+	a = (int**)malloc(n * sizeof(int*));
+	b = (int**)malloc(n * sizeof(int*));
+	c = (int**)malloc(n * sizeof(int*));
 		for (i = 0; i < n; i++) {
 			a[i] = (int*)malloc(n * sizeof(int));
 			b[i] = (int*)malloc(n * sizeof(int));
@@ -62,7 +59,6 @@ int main(void)
 		free(a);
 		free(b);
 		free(c);
-		break;
-	}
+
 	return 0;
 }

@@ -1,3 +1,3 @@
 ﻿  laba 2 1-2.cpp
-D:\учёба\логика в ОА и ИЗ\laba2\laba 2 1-2\laba 2 1-2.cpp(30,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\учёба\логика в ОА и ИЗ\laba2\laba 2 1-2\laba 2 1-2.cpp(27,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   laba 2 1-2.vcxproj -> D:\учёба\логика в ОА и ИЗ\laba2\laba 2 1-2\x64\Debug\laba 2 1-2.exe
