@@ -1,0 +1,3 @@
+﻿  dop_zadanie laba 2.cpp
+D:\учёба\логика в ОА и ИЗ\laba2\dop_zadanie laba 2\dop_zadanie laba 2.cpp(62,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dop_zadanie laba 2.vcxproj -> D:\учёба\логика в ОА и ИЗ\laba2\dop_zadanie laba 2\x64\Debug\dop_zadanie laba 2.exe
